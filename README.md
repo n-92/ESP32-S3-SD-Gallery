@@ -4,8 +4,7 @@ A high-performance digital photo frame and file browser for the **Waveshare ESP3
 
 This project features a custom-built rendering engine that uses **LVGL** for the user interface and **Direct Hardware Rendering** for displaying images. It is designed to handle high-resolution **JPEG** files (up to 13MP+) by intelligently downscaling them to fit the screen without crashing.
 
-
-![How it looks!](view,jpg)
+![How it looks!](view.jpg)
 
 
 ## 🚀 Key Features
