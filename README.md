@@ -1,6 +1,6 @@
 # ESP32-S3 SD Gallery 🖼️
 
-A high-performance digital photo frame and file browser for the **Waveshare ESP32-S3-Touch-LCD-4.3**.
+A high-performance digital photo frame, file browser and .txt viewer for the **Waveshare ESP32-S3-Touch-LCD-4.3**.
 
 This project features a custom-built rendering engine that uses **LVGL** for the user interface and **Direct Hardware Rendering** for displaying images. It is designed to handle high-resolution **JPEG** files (up to 13MP+) by intelligently downscaling them to fit the screen without crashing.
 
