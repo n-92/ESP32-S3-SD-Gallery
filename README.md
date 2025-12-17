@@ -6,7 +6,7 @@ This project features a custom-built rendering engine that uses **LVGL** for the
 
 ![How it looks!](view.jpg)
 
-
+![Reader!](reader.jpg)
 ## 🚀 Key Features
 
 * **Smart Scaling:** Automatically detects large images (e.g., 4000x3000) and downscales them using hardware-accelerated integer math (1/2, 1/4, 1/8) to fit the 800x480 screen.
